@@ -1,0 +1,8 @@
+[*.cs]
+
+csharp_style_namespace_declarations = file_scoped
+indent_size = 4
+indent_style = space
+tab_width = 4
+end_of_line = crlf
+insert_final_newline = true
